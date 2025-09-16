@@ -126,3 +126,5 @@ yarn.lock
 
 # Local development
 .env.example
+apps/web/env.local
+.cursor/
